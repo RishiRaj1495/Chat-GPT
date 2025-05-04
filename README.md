@@ -1,9 +1,8 @@
 <h1 style="color:blue; font-weight:bold;">Chat GPT Clone</h1> 
+This project is a Chat GPT clone built with Next.js, utilizing the OpenAI API to deliver a conversational AI experience.
 
 ## Live Application
-<p>Visit the live application at <i>chat-gpt-rho-taupe.vercel.app</i></p>
-
-This project is a Chat GPT clone built with Next.js, utilizing the OpenAI API to deliver a conversational AI experience.
+<p>Visit the live application at <i>https://chat-gpt-rho-taupe.vercel.app/</i></p>
 
 ## Getting Started
 To set up the project locally, follow these steps:
